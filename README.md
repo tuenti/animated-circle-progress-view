@@ -27,7 +27,7 @@ mCircledAnimatedProgressView.setProgress(0.2f);
 By default the view is in indeterminate state, you could set it again by calling:
 
 ```java
-mCircledAnimatedProgressView.setIndeterminate(0.2f);
+mCircledAnimatedProgressView.setIndeterminate();
 ```
 
 Demo
